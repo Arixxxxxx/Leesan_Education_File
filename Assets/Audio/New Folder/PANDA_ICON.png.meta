@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: ad6382c6b300d6c409596ef058634fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4266945131741071753
+    second: PANDA_ICON_0
+  - first:
+      213: -7999807277977592140
+    second: PANDA_ICON_1
+  - first:
+      213: -8486920017767839244
+    second: PANDA_ICON_2
+  - first:
+      213: 2990848592384025082
+    second: PANDA_ICON_3
+  - first:
+      213: -7299478390748289626
+    second: PANDA_ICON_4
+  - first:
+      213: -5158052918778035034
+    second: PANDA_ICON_5
+  - first:
+      213: -4787493152676439732
+    second: PANDA_ICON_6
+  - first:
+      213: 2003723810621753630
+    second: PANDA_ICON_7
+  - first:
+      213: -4639761143947364748
+    second: PANDA_ICON_8
+  - first:
+      213: 6479547353111693041
+    second: PANDA_ICON_9
+  - first:
+      213: -563391610379674774
+    second: PANDA_ICON_10
+  - first:
+      213: 1976222187330718959
+    second: PANDA_ICON_11
+  - first:
+      213: 3561100440517063028
+    second: PANDA_ICON_12
+  - first:
+      213: -4296025186850676247
+    second: PANDA_ICON_13
+  - first:
+      213: -3020040080235152672
+    second: PANDA_ICON_14
+  - first:
+      213: 233211373793152287
+    second: PANDA_ICON_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PANDA_ICON_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1064
+        width: 397
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776bd7a8204c8c4c0800000000000000
+      internalID: -4266945131741071753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1068
+        width: 498
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9f8c5aa9faf090800000000000000
+      internalID: -7999807277977592140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_2
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1042
+        width: 390
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9cbcf9537683a80800000000000000
+      internalID: -8486920017767839244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_3
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1026
+        width: 452
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e606d2f0a18920800000000000000
+      internalID: 2990848592384025082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_4
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1053
+        width: 200
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5eec1f31b03ba90800000000000000
+      internalID: -7299478390748289626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_5
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 1058
+        width: 268
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4819be23aea68b0800000000000000
+      internalID: -5158052918778035034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_6
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1039
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491b16c7586f8db0800000000000000
+      internalID: -4787493152676439732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 642
+        width: 394
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190a188038aecb10800000000000000
+      internalID: 2003723810621753630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 548
+        width: 512
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767b5472d14c9fb0800000000000000
+      internalID: -4639761143947364748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 546
+        width: 414
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f68b8fccf9fbe950800000000000000
+      internalID: 6479547353111693041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_10
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 602
+        width: 469
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b52e9b05e6e28f0800000000000000
+      internalID: -563391610379674774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_11
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 548
+        width: 176
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecc711eb93fc6b10800000000000000
+      internalID: 1976222187330718959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_12
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 616
+        width: 366
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471b18eabf19b6130800000000000000
+      internalID: 3561100440517063028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 487
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e162a79ad37164c0800000000000000
+      internalID: -4296025186850676247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 57
+        width: 490
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea34224c89a616d0800000000000000
+      internalID: -3020040080235152672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PANDA_ICON_15
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 11
+        width: 488
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d858442888c3300800000000000000
+      internalID: 233211373793152287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

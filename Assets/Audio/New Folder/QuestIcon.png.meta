@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 454e909b59b57014ba69f2e7d8345690
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7203640039765683126
+    second: QuestIcon_0
+  - first:
+      213: -623313852430580575
+    second: QuestIcon_1
+  - first:
+      213: -7268706705474008663
+    second: QuestIcon_2
+  - first:
+      213: -1742451958525815502
+    second: QuestIcon_3
+  - first:
+      213: 1290621407379391219
+    second: QuestIcon_4
+  - first:
+      213: -6809977220612167774
+    second: QuestIcon_5
+  - first:
+      213: -6964805933788157228
+    second: QuestIcon_6
+  - first:
+      213: 6741753886214761095
+    second: QuestIcon_7
+  - first:
+      213: 4692227912446872717
+    second: QuestIcon_8
+  - first:
+      213: 1175222999423908351
+    second: QuestIcon_9
+  - first:
+      213: -6162499204110165694
+    second: QuestIcon_10
+  - first:
+      213: 7956872001093084965
+    second: QuestIcon_11
+  - first:
+      213: 7382259994419990290
+    second: QuestIcon_12
+  - first:
+      213: -4164512329347723118
+    second: QuestIcon_13
+  - first:
+      213: -2751336556760082009
+    second: QuestIcon_14
+  - first:
+      213: 2935673550789136851
+    second: QuestIcon_15
+  - first:
+      213: -2448379270484481356
+    second: QuestIcon_16
+  - first:
+      213: -1219835786030512601
+    second: QuestIcon_17
+  - first:
+      213: 5709619338542564719
+    second: QuestIcon_18
+  - first:
+      213: -1982023452138929344
+    second: QuestIcon_19
+  - first:
+      213: -1654949331738446529
+    second: QuestIcon_20
+  - first:
+      213: -2366653777563905829
+    second: QuestIcon_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuestIcon_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2293
+        width: 487
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a445cf3ec87870c90800000000000000
+      internalID: -7203640039765683126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_1
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2313
+        width: 388
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a48b4a8a5b8957f0800000000000000
+      internalID: -623313852430580575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_2
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2268
+        width: 484
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c8bb33cd502b90800000000000000
+      internalID: -7268706705474008663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_3
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2324
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23592e5fc2191d7e0800000000000000
+      internalID: -1742451958525815502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2293
+        width: 382
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20d5ef45539e110800000000000000
+      internalID: 1290621407379391219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1724
+        width: 432
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e8e47cc91e71a0800000000000000
+      internalID: -6809977220612167774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1734
+        width: 388
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da260387e9085f90800000000000000
+      internalID: -6964805933788157228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_7
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1777
+        width: 396
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aa0fea0758f8d50800000000000000
+      internalID: 6741753886214761095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1759
+        width: 490
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c81960d642e1140800000000000000
+      internalID: 4692227912446872717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_9
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1741
+        width: 442
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9f784671b3f4010800000000000000
+      internalID: 1175222999423908351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1166
+        width: 405
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d26acf976a7aa0800000000000000
+      internalID: -6162499204110165694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1225
+        width: 484
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527a76c7dec7c6e60800000000000000
+      internalID: 7956872001093084965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_12
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1166
+        width: 277
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0bfe1a5e037660800000000000000
+      internalID: 7382259994419990290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_13
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1156
+        width: 489
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2909e7ad91ea436c0800000000000000
+      internalID: -4164512329347723118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_14
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1134
+        width: 427
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9d4c49af941d9d0800000000000000
+      internalID: -2751336556760082009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 600
+        width: 476
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1db436a8b9db820800000000000000
+      internalID: 2935673550789136851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_16
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 608
+        width: 337
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baa75b860c950ed0800000000000000
+      internalID: -2448379270484481356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_17
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 607
+        width: 407
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7268759c0d5421fe0800000000000000
+      internalID: -1219835786030512601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_18
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 667
+        width: 417
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c78c9984ac3f40800000000000000
+      internalID: 5709619338542564719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_19
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 684
+        width: 397
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04304c6eb207e74e0800000000000000
+      internalID: -1982023452138929344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 74
+        width: 434
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35b570e9507809e0800000000000000
+      internalID: -1654949331738446529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuestIcon_21
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 113
+        width: 352
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd097f9ade4f72fd0800000000000000
+      internalID: -2366653777563905829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
